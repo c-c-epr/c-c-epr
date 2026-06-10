@@ -1,0 +1,32 @@
+:root {
+  /* 品牌主色 */
+  --color-primary: #f8ba1e;
+
+  /* 品牌次色 */
+  --color-secondary: #dd991f;
+
+  /* 強調色（CTA、重點按鈕） */
+  --color-accent: #efa512;
+
+  /* 深色品牌色 */
+  --color-brand-dark: #906414;
+
+  /* 淺色背景 */
+  --color-background: #fff0af;
+
+  /* 卡片背景 */
+  --color-surface: #ffdd4d;
+
+  /* Hover 狀態 */
+  --color-primary-hover: #f5da15;
+
+  /* 特殊標籤 / 點綴 */
+  --color-highlight: #fdc651;
+
+  /* 文字色 */
+  --color-text: #906414;
+  --color-text-light: #ffffff;
+
+  /* 邊框 */
+  --color-border: #dd991f;
+}
